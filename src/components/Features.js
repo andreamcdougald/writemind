@@ -47,13 +47,12 @@ export default function Features() {
             <div>
               <div className="mt-6">
                 <h2 className="text-3xl font-bold tracking-tight text-gray-900">
-                  Set your writing goal. We will help you reach it
+                  Set your mental health goal. We will help you reach it
                 </h2>
                 <p className="mt-4 text-lg text-gray-500">
-                  Writing is like a marathon. It’s not about reaching a big
-                  goal, it’s about doing it regularly. Set your writing goals
-                  and our smart notifications will guide you to write weekly or
-                  daily!
+                  Welless is like a marathon. It’s not about reaching a big
+                  goal, it’s about doing it regularly. Set your goals and our
+                  smart notifications will guide you to write weekly or daily.
                 </p>
               </div>
             </div>
