@@ -76,15 +76,16 @@ export default function Features() {
             <div>
               <div className="mt-6 pb-11 pt-11">
                 <h2 className="text-3xl font-bold tracking-tight text-gray-900">
-                  Stay motivated and receive points
+                  Feel better through writing
                 </h2>
 
                 <p className="mt-4 text-lg text-gray-500 ">
-                  Make progress and earn points! Don’t forget to reward yourself
-                  after all your hard work. You can use Writemind points for
-                  printing your work, purchasing new backgrounds, music,
-                  unlocking educational videos from professional writers and
-                  more.
+                  According to the research, writing down thoughts and emotions
+                  reduces activity in the emotional centre of the brain,
+                  lowering the intensity of feelings like anxiety, anger, and
+                  sadness. Our therapeutic writing approach can help you heal
+                  yourself. Join us and start a journey to make positive impact
+                  to your mental wellness.
                 </p>
               </div>
             </div>
